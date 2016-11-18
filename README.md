@@ -14,7 +14,7 @@ _This is a simple webpage that displays the phrase hello world in a few language
 
 ### Technologies used
 
-_HTML, CSS, Bootstrap, JavaScript and jQuery_
+_HTML_
 
 ### License
 
